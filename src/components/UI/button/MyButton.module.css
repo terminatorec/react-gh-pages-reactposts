@@ -1,0 +1,10 @@
+.myBtn{
+    padding: 10px 20px;
+    border-radius:5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.myBtn:hover{
+    opacity: 0.9;
+}
