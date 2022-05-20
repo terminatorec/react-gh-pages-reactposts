@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages-reactposts/static/css/main.4eaf6c9e.css",
-    "main.js": "/react-gh-pages-reactposts/static/js/main.1d896ce0.js",
+    "main.css": "/react-gh-pages-reactposts/static/css/main.fa6891e3.css",
+    "main.js": "/react-gh-pages-reactposts/static/js/main.9a0b11ac.js",
+    "static/media/Loader.svg": "/react-gh-pages-reactposts/static/media/Loader.3ed97e545fa09e81e50a.svg",
     "index.html": "/react-gh-pages-reactposts/index.html",
-    "main.4eaf6c9e.css.map": "/react-gh-pages-reactposts/static/css/main.4eaf6c9e.css.map",
-    "main.1d896ce0.js.map": "/react-gh-pages-reactposts/static/js/main.1d896ce0.js.map"
+    "main.fa6891e3.css.map": "/react-gh-pages-reactposts/static/css/main.fa6891e3.css.map",
+    "main.9a0b11ac.js.map": "/react-gh-pages-reactposts/static/js/main.9a0b11ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eaf6c9e.css",
-    "static/js/main.1d896ce0.js"
+    "static/css/main.fa6891e3.css",
+    "static/js/main.9a0b11ac.js"
   ]
 }
