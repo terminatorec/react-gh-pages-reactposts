@@ -1,0 +1,18 @@
+.loader{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* border:3px dashed teal; */
+    animation: rotate 5s infinite linear;
+    background-image: url(../../.././images/Loader.svg);
+    background-size: contain;
+}
+
+@keyframes rotate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
